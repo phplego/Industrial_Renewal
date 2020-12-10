@@ -35,4 +35,5 @@ Pillars and Platforms:
 ![alt text](images/06.png)
 
 More soon:
-...
+
+test change
